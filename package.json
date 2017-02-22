@@ -1,0 +1,13 @@
+{
+  "name": "webpack-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Omar Silva",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
